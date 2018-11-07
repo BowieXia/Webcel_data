@@ -1,0 +1,25 @@
+{
+		"Original": "$1000",
+		"Current": "$200",
+		"Rate": "3.6%",
+		"Term": "5",
+		"IO": "2",
+		"Amort": "30"
+
+	},
+	{
+		"Original": "$2000",
+		"Current": "$500",
+		"Rate": "4%",
+		"Term": "5",
+		"IO": "2",
+		"Amort": "25"
+	},
+	{
+		"Original": "$6000",
+		"Current": "$4500",
+		"Rate": "3.8%",
+		"Term": "4",
+		"IO": "1",
+		"Amort": "28"
+	}
